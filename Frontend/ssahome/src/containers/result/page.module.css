@@ -1,0 +1,68 @@
+.party{
+    transform: scaleX(-1);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.table{
+    margin: 15px;
+    height: 340px;
+    width: 610px;
+}
+
+.main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    margin-left: 17%;
+}
+
+.main2{
+    text-align: center;
+    display: block;
+    flex-direction: column;
+    margin-top: 1%;
+}
+
+.pic{
+    width: 500px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.footer{
+    margin-top: 0.5%;
+}
+
+.finish{
+    font-size: medium;
+    font-weight: bold;
+    bottom: 40px;
+    background-color: red;
+}
+
+.graph{
+    margin: 15px;
+    height: 340px;
+    width: 610px;
+}
+
+.rank{
+    height: 400px;
+}
+
+.body{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-right: 15%;
+}
+
+.win{
+    margin-bottom: 5%;
+}
